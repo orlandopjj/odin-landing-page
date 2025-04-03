@@ -1,0 +1,145 @@
+.flex-container, .flex-container1{
+    display: flex;
+    background: black;
+    height: 180px;
+    width: auto;
+}
+
+.one{
+    color: white;
+    padding-left: 150px;
+    padding-top: 15px;
+}
+
+.two{
+    display: flex;
+}
+.two-one, .two-two, .two-three{
+    color: white;
+    padding-top: 15px;
+}
+
+.three{
+    color: white;
+}
+
+.flex-container div {
+    background: black;
+    border: 4px solid none;
+    height: 20px;
+    flex: 1;
+  }
+
+.flex-container1{
+    padding-left: 100px;
+    background-color: black;
+    height: 210px;
+}
+
+.sign-button{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+}
+
+.coffee-image{
+    justify-content: right;
+}
+
+.image{
+    height: 200px;
+    width: auto;
+    justify-content: right;
+    padding-left:620px;
+}
+
+.image1{
+    height: 200px;
+    width: auto;
+    padding-left: 350px;
+}
+
+.image2{
+    height: 200px;
+    width: auto;
+    padding-left: 330px;
+}
+
+.image3{
+    height: 200px;
+    width: auto;
+    padding-left: 350px;
+}
+    
+
+.text1{
+    padding-left: 310px;
+}
+
+.text2{
+    padding-left: 330px;
+}
+
+.text3{
+    padding-left: 340px;
+}
+
+
+.flex-container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.flex-container3{
+    display: flex;
+    height: 250px;
+    width: auto;
+}
+
+.flex-container4{
+    justify-content: center;
+    align-items: center;
+}
+
+.flex4-text{
+    display: flex;
+    text-align: center;
+    height: 250px;
+    width: auto;
+    background-color: #D3D3D3;
+    padding-top: 125px;
+    padding-left: 350px;
+    font-size: 36px;
+}
+
+.flex-container5{
+    height: 250px;
+    padding-left: 500px;
+}
+
+.flex-container6{
+    height: 100px;
+    width: 300px;
+    background-color: #5ad2ba;
+    justify-content: center;
+    margin: 100px;
+    padding-left: 150px;
+    border-radius: 5px;
+}
+
+.text-container6{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.sign-button1{
+    //padding-left: 80px;
+    border-radius: 5px;
+}
+
+.text-sign{
+    justify-content: center;
+}
